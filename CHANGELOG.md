@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.5.1](https://github.com/opencadc/science-containers/compare/v0.5.0...v0.5.1) (2024-11-07)
+
+
+### Bug Fixes
+
+* remove image link ([bb627a6](https://github.com/opencadc/science-containers/commit/bb627a61834fae97ab5ee010579b490a763bf423))
+
+
+### Documentation
+
+* small text chagne ([2720ea5](https://github.com/opencadc/science-containers/commit/2720ea517c1ada920470f5aa95ffcf0221871311))
+* update for new registry authentication ([ea6b464](https://github.com/opencadc/science-containers/commit/ea6b4640732af037f7510ac7727893fff96e2a33))
+
 ## [0.5.0](https://github.com/opencadc/science-containers/compare/v0.4.2...v0.5.0) (2024-06-07)
 
 
